@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+.row {
+	margin: 0px;
+	padding: 0px;
+}
+.col-4 {
+	margin: 0px;
+	padding: 0px;
+}
+.col-12{
+	padding: 0px;
+}
+.col-8{
+	padding: 0px;
+}
+.container-fluid{
+	padding: 0px;
+}
+.container{
+	padding: 0px;
+}
+p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
