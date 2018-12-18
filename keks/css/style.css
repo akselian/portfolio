@@ -869,7 +869,9 @@ body {
 .hearts-img {
 	width: 475px;
 }
-
+.card-photo {
+	margin-bottom: 10px;
+}
 .card-img {
 	position: relative;
 }
