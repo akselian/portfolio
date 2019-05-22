@@ -1,0 +1,213 @@
+body    {
+    background-color: #131522;
+    font-family: "PT Sans";
+}
+.logo_text  {
+    color:  #ffffff;
+    border-top: 1px solid #ffffff;
+    margin: auto;
+    text-align: right;
+}
+.logo_text-2    {
+    color:  #ffffff;
+    margin: auto;
+    text-align: left;
+}
+.logo-img {
+    margin: auto;
+    text-align: center;
+}
+
+.car-url    {
+    color: #005AAE;
+    text-decoration: underline;
+}
+.car-url:hover    {
+    color: #005AAE;
+}
+.car-text   {
+    text-align: right;
+    font-weight: bold;
+}
+.bottom-vk  {
+    background: transparent;
+    background-color: #1199D8; 
+    border: 1px solid #1199D8; 
+    border-radius: 40px;
+}
+.bottom-tel {
+    background: transparent;
+    background-color: #1199D8;
+    border: 1px solid #1199D8; 
+    border-radius: 40px;
+}
+.bottom-vk:hover {
+    background-color: #07E3F0;
+}
+.bottom-tel:hover   {
+    background-color: #07E3F0;
+}
+
+.write-text {
+    color: #ffffff;
+    letter-spacing: 0.09em;
+    font-weight: 600;
+    font-family: "PT Sans";
+}
+.tel-text   {
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "PT Sans";
+}
+.tel_text   {
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "PT Sans";
+}
+.telefon_, .telefon_1, .write   {
+    color: #ffffff;
+}
+.write-text, .tel-text, .tel_text, .vk_img, .tel_img {
+    display: inline-block;
+    vertical-align: middle;
+}
+.contacts   {
+    text-align: center;
+}
+.teb-text    {
+    color: #ffffff;
+    background-color: #1199D8;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.tabs   {
+    border: 0px;
+}
+.table tr   {
+    border-top: 0px;
+    border-bottom: 1px dashed #1199D8;
+}
+.table td   {
+    border-top: 0px solid #dee2e6;
+}
+.table tr:last-child   {
+    border-bottom: 0px dashed #1199D8;
+}
+.table tr:first-child   {
+    border-bottom: 0px dashed #1199D8;
+}
+
+.table    {
+    margin: auto;
+    text-align: -webkit-center;
+}
+table {
+    border: 0px solid #1199D8;
+}
+.teb_text   {
+    color: #1199D8;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.yell   {   
+    color: #07E3F0;
+    font-weight: bold;
+    vertical-align: middle;
+}
+.tab-border    {
+    border: 5px solid #1199D8;
+    border-radius: 15px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cap-remont-text    {
+    border-top: 4px solid #1199D8;
+    border-bottom: 4px solid #1199D8;
+    margin: auto;
+}
+
+.cap-remont_text    {
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+}
+.group {
+    text-align: center;
+}
+.group-text, .group_text {
+    color: #FFFFFF;
+    font-weight: 600;
+}
+.group_1, .group-m {
+    display: inline-block;
+    vertical-align: middle;
+}
+.group_text_1 {
+    color: #2D89DE;
+    font-weight: 700;
+    
+}
+.group_text-1 {
+    margin: auto;
+}
+.group_2, .karta-text, .img-k   {
+    display: inline-block;
+}
+.karta-text, .telefon-f {
+    color: #FEFEFE;
+    font-weight: bold;
+}
+.right_ {
+    text-align: right;
+}
+.map    {   
+    margin: auto;
+}
+.img-k, .karta-text, .telefon-f, .telephone-img, .time-img, .time-text {
+    vertical-align: middle;
+}
+.telefon-f:hover    {
+    text-decoration: none;
+    color: #FEFEFE;
+}
+.car-urll   {
+    text-decoration: underline;
+}
+.car_logo   {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: auto;
+    z-index: -1;
+}
+.text-2, .text-1 {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.text-2 {
+    text-align: center;
+}
+.text-1, .car-textet {
+    display: inline-block;
+}
+.text-3 {
+    text-align: left;
+}
+.text-4 {
+    text-align: right;
+}
+.text-top, .text-7   {
+    text-align: left;
+    margin: auto;
+}
+.car-textet {
+    font-weight: bold;
+    text-align: right;
+}
+.time-text  {
+    color: #FEFEFE;
+    font-weight: bold;
+    display: inline-block;
+}

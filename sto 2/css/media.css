@@ -1,0 +1,2033 @@
+@media only screen and (min-width : 320px) {
+    .logo-text  {
+        width: 243px;
+        margin-bottom: 2px;
+    }
+    .logo_text  {
+        font-size: 6px;
+        width: 243px;
+        padding-top: 4px;
+    }
+    .logo_text-2 {
+        font-size: 6px;
+        width: 243px;
+        margin-top: -10px;
+    }
+    .logo   {
+        margin-top: 23px;
+    }
+    .car-url    {
+        width: 100px;
+        position: absolute;
+        right: 12px;
+        top: 130px;
+    }
+    .car-text   {
+        font-size: 6px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 12px;
+    }
+    .telefon_   {
+        display: inline-block;
+    }
+    .telefon_1  {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel-text    {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 15px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 15px;
+    }
+    .bottom-vk  {
+        margin-right: 0px;
+        margin-bottom: 24px;
+    }
+    .vk_img svg     {
+        width: 21px;
+        height: 20px;
+    }
+    .tel_img svg    {
+        width: 21px;
+        height: 20px;
+    }
+    .teb-text    {
+        font-size: 12px;
+        padding: 11px 12px 11px 12px;
+        text-align: center;
+    }
+    .table  {
+        margin-top: 48px;
+    }
+    .teb_text   {
+        font-size: 7px;
+        padding: 19px 0px 10px 13px;
+    }
+    .tab-border {
+        border: 3px solid #1199D8;
+        border-radius: 15px;
+    }
+    .yell   {
+        font-size: 9px;
+        padding: 16px 0px 10px 0px;
+    }
+    .car_logo   {
+        width: 309px;
+        height: 208px;
+        top: 10px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 140px;
+    }
+    .text-1, .car-textet {
+        font-size: 18px;
+    }
+    .text-2 {
+        font-size: 18px;
+    }
+    .text-3 {
+        margin-left: 62px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 150px;
+        margin-left: 345px;
+    }
+    .text-5 {
+        margin-left: 62px;
+        width: 175px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 160px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 260px;
+        margin-left: 210px;
+    }
+    .text-1, .text-2, .car-textet    {
+        display: none;
+    }
+    .text-top-2 {
+        margin-top: 265px;
+    }
+    .cont   {
+        margin-top: 50px;
+    }
+    .tab-border    {
+        width: 240px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 48px;
+    }
+    .cap-remont-text {
+        width: 240px;
+    }
+    .cap-remont_text    {
+        font-size: 12px;
+        padding-top: 18px;
+    }
+    .group {
+        margin-bottom: 19px;
+        margin-top: 19px;
+    }
+    .group-text, .group_text {
+        font-size: 10px;
+    }
+    .group_text_1 {
+        font-size: 10px;
+    }
+    .group_text-1 {
+        width: 50px;
+        font-size: 10px;
+    }
+    .group-img {
+        margin-top: 10px;
+        margin-bottom: 11px;
+    }
+    .group_img  {
+        width: 60px;
+        height: 60px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 18px;
+    }
+    .group_2 {
+        margin-top: 0px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 242px
+    }
+    .footer {
+        margin-top: 30px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 10px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 16px;
+        height: 12px;
+    }
+    .time-img   {
+        margin-left: 33px;
+    }
+    .map    {
+        width: 100%;
+        height: 167px;
+    }
+    .mtas   {
+        margin-bottom: 6px;
+    }
+    .footer {
+        margin-bottom: 13px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 6px;
+    }
+    .img-k {
+        margin-left: 34px;
+    }
+    .right_ {
+        padding-right: 10px;
+        margin-top: 0px;
+    }
+    
+    .right_ {
+        margin-top: 0px;
+        text-align: left;
+        margin-left: 33px;
+    }
+}
+@media only screen and (min-width : 375px) {
+    .logo-text  {
+        width: 243px;
+        margin-bottom: 2px;
+    }
+    .logo_text  {
+        font-size: 6px;
+        width: 243px;
+        padding-top: 8px;
+    }
+    .logo_text-2 {
+        font-size: 6px;
+        width: 243px;
+        margin-top: -10px;
+    }
+    .logo   {
+        margin-top: 23px;
+    }
+    .car-url    {
+        width: 135px;
+        position: absolute;
+        right: 14px;
+        top: 150px;
+    }
+    .car-text   {
+        font-size: 8px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 12px;
+    }
+    .telefon_   {
+        display: inline-block;
+    }
+    .telefon_1  {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel-text    {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 15px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 15px;
+    }
+    .bottom-vk  {
+        margin-right: 0px;
+        margin-bottom: 24px;
+    }
+    .vk_img svg     {
+        width: 21px;
+        height: 20px;
+    }
+    .tel_img svg    {
+        width: 21px;
+        height: 20px;
+    }
+    .teb-text    {
+        font-size: 12px;
+        padding: 11px 12px 11px 12px;
+        text-align: center;
+    }
+    .table  {
+        margin-top: 48px;
+    }
+    .teb_text   {
+        font-size: 7px;
+        padding: 19px 0px 10px 13px;
+    }
+    .car_logo   {
+        width: 309px;
+        height: 208px;
+        top: 10px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 140px;
+    }
+    .text-1, .car-textet {
+        font-size: 18px;
+    }
+    .text-2 {
+        font-size: 18px;
+    }
+    .text-3 {
+        margin-left: 62px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 150px;
+        margin-left: 345px;
+    }
+    .text-5 {
+        margin-left: 62px;
+        width: 175px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 160px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 260px;
+        margin-left: 210px;
+    }
+    .text-1, .text-2, .car-textet    {
+        display: none;
+    }
+    .text-top-2 {
+        margin-top: 265px;
+    }
+    .cont   {
+        margin-top: 50px;
+    }
+    .tab-border {
+        border: 3px solid #1199D8;
+        border-radius: 15px;
+    }
+    .yell   {
+        font-size: 9px;
+        padding: 16px 0px 10px 0px;
+    }
+    .tab-border    {
+        width: 240px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 48px;
+    }
+    .cap-remont-text {
+        width: 240px;
+    }
+    .cap-remont_text    {
+        font-size: 12px;
+        padding-top: 18px;
+    }
+    .group {
+        margin-bottom: 19px;
+        margin-top: 19px;
+    }
+    .group-text, .group_text {
+        font-size: 10px;
+    }
+    .group_text_1 {
+        font-size: 10px;
+    }
+    .group_text-1 {
+        width: 50px;
+        font-size: 10px;
+    }
+    .group-img {
+        margin-top: 10px;
+        margin-bottom: 11px;
+    }
+    .group_img  {
+        width: 60px;
+        height: 60px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 18px;
+    }
+    .group_2 {
+        margin-top: 0px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 242px
+    }
+    .footer {
+        margin-top: 30px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 10px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 16px;
+        height: 12px;
+    }
+    .time-img   {
+        margin-left: 33px;
+    }
+    .map    {
+        width: 100%;
+        height: 167px;
+    }
+    .mtas   {
+        margin-bottom: 6px;
+    }
+    .footer {
+        margin-bottom: 13px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 6px;
+    }
+    .img-k {
+        margin-left: 33px;
+    }
+    .right_ {
+        padding-right: 33px;
+        margin-top: 0px;
+    }
+    
+    .right_ {
+        margin-top: 0px;
+        text-align: left;
+        margin-left: 33px;
+    }
+}
+
+@media only screen and (min-width : 425px) {
+    .logo-text  {
+        width: 243px;
+        margin-bottom: 2px;
+    }
+    .logo_text  {
+        font-size: 6px;
+        width: 243px;
+        padding-top: 8px;
+    }
+    .logo_text-2 {
+        font-size: 6px;
+        width: 243px;
+        margin-top: -10px;
+    }
+    .logo   {
+        margin-top: 23px;
+    }
+    .car-url    {
+        width: 135px;
+        position: absolute;
+        right: 14px;
+        top: 172px;
+    }
+    .car-text   {
+        font-size: 8px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 16px;
+    }
+    .telefon_   {
+        display: inline-block;
+    }
+    .telefon_1  {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel-text    {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 15px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 15px;
+    }
+    .bottom-vk  {
+        margin-right: 0px;
+        margin-bottom: 24px;
+    }
+    .vk_img svg     {
+        width: 21px;
+        height: 20px;
+    }
+    .tel_img svg    {
+        width: 21px;
+        height: 20px;
+    }
+    .teb-text    {
+        font-size: 12px;
+        padding: 11px 12px 11px 12px;
+        text-align: center;
+    }
+    .table  {
+        margin-top: 48px;
+    }
+    .teb_text   {
+        font-size: 7px;
+        padding: 19px 0px 10px 13px;
+    }
+    .tab-border {
+        border: 3px solid #1199D8;
+        border-radius: 15px;
+    }
+    .yell   {
+        font-size: 9px;
+        padding: 16px 0px 10px 0px;
+    }
+    .car_logo   {
+        width: 309px;
+        height: 208px;
+        top: 10px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 140px;
+    }
+    .text-1, .car-textet {
+        font-size: 18px;
+    }
+    .text-2 {
+        font-size: 18px;
+    }
+    .text-3 {
+        margin-left: 62px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 150px;
+        margin-left: 345px;
+    }
+    .text-5 {
+        margin-left: 62px;
+        width: 175px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 160px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 260px;
+        margin-left: 210px;
+    }
+    .text-1, .text-2, .car-textet    {
+        display: none;
+    }
+    .text-top-2 {
+        margin-top: 265px;
+    }
+    .cont   {
+        margin-top: 50px;
+    }
+    .tab-border    {
+        width: 240px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 48px;
+    }
+    .cap-remont-text {
+        width: 240px;
+    }
+    .cap-remont_text    {
+        font-size: 12px;
+        padding-top: 18px;
+    }
+    .group {
+        margin-bottom: 19px;
+        margin-top: 19px;
+    }
+    .group-text, .group_text {
+        font-size: 10px;
+    }
+    .group_text_1 {
+        font-size: 10px;
+    }
+    .group_text-1 {
+        width: 50px;
+        font-size: 10px;
+    }
+    .group-img {
+        margin-top: 10px;
+        margin-bottom: 11px;
+    }
+    .group_img  {
+        width: 60px;
+        height: 60px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 18px;
+    }
+    .group_2 {
+        margin-top: 0px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 242px
+    }
+    .footer {
+        margin-top: 50px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 12px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 16px;
+        height: 12px;
+    }
+    .time-img   {
+        margin-left: 33px;
+    }
+    .map    {
+        width: 100%;
+        height: 167px;
+    }
+    .mtas   {
+        margin-bottom: 6px;
+    }
+    .footer {
+        margin-bottom: 13px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 6px;
+    }
+   
+    .img-k {
+        margin-left: 33px;
+    }
+    .right_ {
+        padding-right: 33px;
+        margin-top: 0px;
+    }
+   
+    .right_ {
+        margin-top: -26px;
+    }
+}
+@media only screen and (min-width : 768px) {
+    .logo-text  {
+        width: 552px;
+        margin-bottom: 10px;
+    }
+    .logo_text  {
+        font-size: 16px;
+        width: 552px;
+        padding-top: 10px;
+    }
+    .logo_text-2 {
+        font-size: 16px;
+        width: 552px;
+        margin-top: -25px;
+    }
+    .tab-border {
+        border: 5px solid #1199D8;
+        border-radius: 15px;
+    }
+    .logo   {
+        margin-top: 56px;
+    }
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 38px;
+        top: 384px;
+    }
+    .car-text   {
+        font-size: 20px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 24px;
+    }
+    .telefon_   {
+        display: none;
+    }
+    .telefon_1  {
+        display: inline-block;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 30px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 30px;
+    }
+    .bottom-vk  {
+        margin-right: 70px;
+    }
+    .vk_img svg     {
+        width: 36px;
+        height: 35px;
+    }
+    .tel_img svg    {
+        width: 36px;
+        height: 35px;
+    }
+    .teb-text    {
+        font-size: 24px;
+        padding: 25px 40px 25px 40px;
+    }
+    .table  {
+        margin-top: 120px;
+    }
+    .teb_text   {
+        font-size: 16px;
+        padding: 40px 0px 10px 30px;
+    }
+    .yell   {
+        font-size: 26px;
+        padding: 30px 0px 10px 0px;
+    }
+    .car_logo   {
+        width: 550px;
+        height: 390px;
+        top: 70px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 140px;
+    }
+    .text-1, .car-textet {
+        font-size: 18px;
+    }
+    .text-2 {
+        font-size: 18px;
+    }
+    .text-3 {
+        margin-left: 62px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 150px;
+        margin-left: 345px;
+    }
+    .text-5 {
+        margin-left: 62px;
+        width: 175px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 160px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 260px;
+        margin-left: 210px;
+    }
+    .text-top-2 {
+        margin-top: 265px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1, .text-2    {
+        display: inline-block;
+    }
+    .tab-border    {
+        width: 671px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 120px;
+    }
+    .cap-remont-text {
+        width: 671px;
+    }
+    .cap-remont_text    {
+        font-size: 24px;
+        padding-top: 35px;
+    }
+    .group {
+        margin-bottom: 50px;
+        margin-top: 10px;
+    }
+    .group-text, .group_text {
+        font-size: 20px;
+    }
+    .group_text_1 {
+        font-size: 20px;
+    }
+    .group_text-1 {
+        width: 150px;
+        font-size: 20px;
+    }
+    .group-img {
+        margin-top: 18px;
+        margin-bottom: 35px;
+    }
+    .group_img  {
+        width: 144px;
+        height: 144px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 110px;
+    }
+    .group_2 {
+        margin-top: 32px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 951px
+    }
+    .footer {
+        margin-top: 125px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 16px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 31px;
+        height: 30px;
+    }
+    .time-img   {
+        margin-left: 20px;
+    }
+    .map    {
+        width: 100%;
+        height: 380px;
+    }
+    .mtas   {
+        margin-bottom: 15px;
+    }
+    .footer {
+        margin-bottom: 20px;
+    }
+    
+    .icon-k, .telephone-img {
+        padding-right: 10px;
+    }
+    .img-k {
+        margin-left: 20px;
+    }
+    .right_ {
+        padding-right: 20px;
+        margin-top: 0px;
+        margin-left: 0px;
+        text-align: right;
+    }
+    .cente  {
+        text-align: center;
+    }
+}
+@media only screen and (min-width : 960px) {
+    .logo-text  {
+        width: 552px;
+        margin-bottom: 10px;
+    }
+    .logo_text  {
+        font-size: 16px;
+        width: 552px;
+        padding-top: 10px;
+    }
+    .logo_text-2 {
+        font-size: 16px;
+        width: 552px;
+        margin-top: -25px;
+    }
+    .tab-border {
+        border: 5px solid #1199D8;
+        border-radius: 15px;
+    }
+    .logo   {
+        margin-top: 56px;
+    }
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 38px;
+        top: 384px;
+    }
+    .car-text   {
+        font-size: 20px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 24px;
+    }
+    .telefon_   {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 30px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 30px;
+    }
+    .bottom-vk  {
+        margin-right: 102px;
+    }
+    .vk_img svg     {
+        width: 36px;
+        height: 35px;
+    }
+    .tel_img svg    {
+        width: 36px;
+        height: 35px;
+    }
+    .teb-text    {
+        font-size: 24px;
+        padding: 30px 46px 30px 46px;
+    }
+    .table  {
+        margin-top: 120px;
+    }
+    .teb_text   {
+        font-size: 16px;
+        padding: 40px 0px 10px 30px;
+    }
+    .yell   {
+        font-size: 26px;
+        padding: 30px 0px 10px 0px;
+    }
+    .car_logo   {
+        width: 634px;
+        height: 427px;
+        top: 70px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 201px;
+    }
+    .text-1, .car-textet {
+        font-size: 20px;
+    }
+    .text-2 {
+        font-size: 20px;
+    }
+    .text-3 {
+        margin-left: 82px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 213px;
+        margin-left: 445px;
+    }
+    .text-5 {
+        margin-left: 82px;
+        width: 175px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 185px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 321px;
+        margin-left: 320px;
+    }
+    .text-top-2 {
+        margin-top: 360px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1, .car-textet   {
+        display: inline-block;
+    }
+    .text-2     {
+        display: block;
+    }
+    .tab-border    {
+        width: 683px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 120px;
+    }
+    .cap-remont-text {
+        width: 683px;
+    }
+    .cap-remont_text    {
+        font-size: 24px;
+        padding-top: 35px;
+    }
+    .group {
+        margin-bottom: 50px;
+        margin-top: 0px;
+    }
+    .group-text, .group_text {
+        font-size: 20px;
+    }
+    .group_text_1 {
+        font-size: 20px;
+    }
+    .group_text-1 {
+        width: 150px;
+        font-size: 20px;
+    }
+    .group-img {
+        margin-top: 18px;
+        margin-bottom: 35px;
+    }
+    .group_img  {
+        width: 144px;
+        height: 144px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 110px;
+    }
+    .group_2 {
+        margin-top: 32px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 951px
+    }
+    .footer {
+        margin-top: 125px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 20px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 38px;
+        height: 35px;
+    }
+    .time-img   {
+        margin-left: 36px;
+    }
+    .map    {
+        width: 100%;
+        height: 380px;
+    }
+    .mtas   {
+        margin-bottom: 23px;
+    }
+    .footer {
+        margin-bottom: 30px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 10px;
+    }
+    .img-k {
+        margin-left: 32px;
+    }
+    .right_ {
+        padding-right: 32px;
+        margin-top: 0px;
+        margin-left: 0px;
+        text-align: right;
+    }
+    .cente  {
+        text-align: center;
+    }
+}
+@media only screen and (min-width : 1024px) {
+    .logo-text  {
+        width: 680px;
+        margin-bottom: 10px;
+    }
+    .logo_text  {
+        font-size: 20px;
+        width: 680px;
+        padding-top: 10px;
+    }
+    .logo_text-2 {
+        font-size: 20px;
+        width: 680px;
+        margin-top: -30px;
+    }
+    .tab-border {
+        border: 5px solid #1199D8;
+        border-radius: 15px;
+    }
+    .logo   {
+        margin-top: 56px;
+    }
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 38px;
+        top: 408px;
+    }
+    .car-text   {
+        font-size: 22px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 24px;
+    }
+    .telefon_   {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 30px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 30px;
+    }
+    .bottom-vk  {
+        margin-right: 102px;
+    }
+    .vk_img svg     {
+        width: 36px;
+        height: 35px;
+    }
+    .tel_img svg    {
+        width: 36px;
+        height: 35px;
+    }
+    .car_logo   {
+        width: 634px;
+        height: 427px;
+        top: 70px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 201px;
+    }
+    .text-1, .car-textet {
+        font-size: 20px;
+    }
+    .text-2 {
+        font-size: 20px;
+    }
+    .text-3 {
+        margin-left: 82px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 213px;
+        margin-left: 445px;
+    }
+    .text-5 {
+        margin-left: 82px;
+        width: 175px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 185px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 321px;
+        margin-left: 320px;
+    }
+    .text-top-2 {
+        margin-top: 360px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1, .car-textet    {
+        display: inline-block;
+    }
+    .text-2     {
+        display: block;
+    }
+    .teb-text    {
+        font-size: 26px;
+        padding: 30px 46px 30px 46px;
+    }
+    .table  {
+        margin-top: 120px;
+    }
+    .teb_text   {
+        font-size: 18px;
+        padding: 40px 0px 10px 30px;
+    }
+    .yell   {
+        font-size: 30px;
+        padding: 30px 0px 10px 0px;
+    }
+    .tab-border    {
+        width: 731px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 120px;
+    }
+    .cap-remont-text {
+        width: 731px;
+    }
+    .cap-remont_text    {
+        font-size: 28px;
+        padding-top: 35px;
+    }
+    .group {
+        margin-bottom: 50px;
+        margin-top: 0px;
+    }
+    .group-text, .group_text {
+        font-size: 20px;
+    }
+    .group_text_1 {
+        font-size: 20px;
+    }
+    .group_text-1 {
+        width: 150px;
+        font-size: 20px;
+    }
+    .group-img {
+        margin-top: 18px;
+        margin-bottom: 35px;
+    }
+    .group_img  {
+        width: 150px;
+        height: 150px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 110px;
+    }
+    .group_2 {
+        margin-top: 32px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 951px
+    }
+    .footer {
+        margin-top: 125px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 20px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 38px;
+        height: 35px;
+    }
+    .time-img   {
+        margin-left: 36px;
+    }
+    .map    {
+        width: 100%;
+        height: 570px;
+    }
+    .mtas   {
+        margin-bottom: 23px;
+    }
+    .footer {
+        margin-bottom: 30px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 10px;
+    }
+    .img-k {
+        margin-left: 20px;
+    }
+    .right_ {
+        padding-right: 20px;
+        margin-top: 0px;
+        margin-left: 0px;
+        text-align: right;
+    }
+    .cente  {
+        text-align: center;
+    }
+}
+@media only screen and (min-width : 1200px) {
+    .logo-text  {
+        width: 748px;
+        margin-bottom: 10px;
+    }
+    .logo_text  {
+        font-size: 24px;
+        width: 748px;
+        padding-top: 10px;
+    }
+    .logo_text-2 {
+        font-size: 24px;
+        width: 748px;
+        margin-top: -38px;
+    }
+    .tab-border {
+        border: 5px solid #1199D8;
+        border-radius: 15px;
+    }
+    .logo   {
+        margin-top: 56px;
+    }
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 42px;
+        top: 485px;
+    }
+    .car-text   {
+        font-size: 24px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 28px;
+    }
+    .telefon_   {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 40px 10px 30px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 20px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 30px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 30px;
+    }
+    .bottom-vk  {
+        margin-right: 102px;
+    }
+    .vk_img svg     {
+        width: 51px;
+        height: 50px;
+    }
+    .tel_img svg    {
+        width: 51px;
+        height: 50px;
+    }
+    .teb-text    {
+        font-size: 28px;
+        padding: 30px 46px 30px 46px;
+    }
+    .table  {
+        margin-top: 120px;
+    }
+    .teb_text   {
+        font-size: 19px;
+        padding: 50px 0px 10px 40px;
+    }
+    .yell   {
+        font-size: 32px;
+        padding: 30px 0px 10px 0px;
+    }
+    .car_logo   {
+        width: 900px;
+        height: 600px;
+        top: 100px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 301px;
+    }
+    .text-1, .car-textet {
+        font-size: 30px;
+    }
+    .text-2 {
+        font-size: 36px;
+    }
+    .text-3 {
+        margin-left: 100px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 321px;
+        margin-left: 400px;
+    }
+    .text-5 {
+        margin-left: 100px;
+        width: 265px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 285px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 321px;
+        margin-left: 490px;
+    }
+    .text-top-2 {
+        margin-top: 480px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1, .car-textet    {
+        display: inline-block;
+    }
+    .text-2     {
+        display: block;
+    }
+    .tab-border    {
+        width: 779px;
+        border-radius: 20px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 120px;
+    }
+    .cap-remont-text {
+        width: 797px;
+    }
+    .cap-remont_text    {
+        font-size: 32px;
+        padding-top: 35px;
+    }
+    .group {
+        margin-bottom: 50px;
+        margin-top: 0px;
+    }
+    .group-text, .group_text {
+        font-size: 24px;
+    }
+    .group_text_1 {
+        font-size: 24px;
+    }
+    .group_text-1 {
+        width: 183px;
+        font-size: 28px;
+    }
+    .group-img {
+        margin-top: 18px;
+        margin-bottom: 35px;
+    }
+    .group_img  {
+        width: 180px;
+        height: 180px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 110px;
+    }
+    .group_2 {
+        margin-top: 32px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 951px
+    }
+    .footer {
+        margin-top: 125px;
+    }
+    .karta-text, .telefon-f, .time-text {
+        font-size: 24px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 48px;
+        height: 55px;
+    }
+    .time-img   {
+        margin-left: 56px;
+    }
+    .map    {
+        width: 100%;
+    }
+    .mtas   {
+        margin-bottom: 23px;
+    }
+    .footer {
+        margin-bottom: 30px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 10px;
+    }
+    .img-k {
+        margin-left: 20px;
+    }
+    .right_ {
+        padding-right: 20px;
+        margin-top: 0px;
+    }
+    .cente  {
+        text-align: center;
+    }
+}
+@media only screen and (min-width : 1240px) {
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 50px;
+        top: 505px;
+    }
+    .img-k {
+        margin-left: 45px;
+    }
+    .right_ {
+        padding-right: 45px;
+        margin-top: 0px;
+    }
+    .car_logo   {
+        width: 954px;
+        height: 643px;
+        top: 90px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 301px;
+    }
+    .text-1, .car-textet {
+        font-size: 30px;
+    }
+    .text-2 {
+        font-size: 36px;
+    }
+    .text-3 {
+        margin-left: 100px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 321px;
+        margin-left: 450px;
+    }
+    .text-5 {
+        margin-left: 100px;
+        width: 265px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 285px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 321px;
+        margin-left: 515px;
+    }
+    .text-top-2 {
+        margin-top: 500px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1    {
+        display: inline-block;
+    }
+    .text-2 {
+        display: block;
+    }
+    .cente  {
+        text-align: center;
+    }
+}
+@media only screen and (min-width : 1280px) {
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 50px;
+        top: 515px;
+    }
+    .img-k {
+        margin-left: 45px;
+    }
+    .right_ {
+        padding-right: 45px;
+        margin-top: 0px;
+    }
+    .car_logo   {
+        width: 954px;
+        height: 643px;
+        top: 70px;
+    }
+    .car-logo   {
+        margin-top: 100px;
+    }
+    .text-top   {
+        width: 301px;
+    }
+    .text-1, .car-textet {
+        font-size: 30px;
+    }
+    .text-2 {
+        font-size: 36px;
+    }
+    .text-3 {
+        margin-left: 100px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 321px;
+        margin-left: 450px;
+    }
+    .text-5 {
+        margin-left: 100px;
+        width: 265px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 285px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 321px;
+        margin-left: 530px;
+    }
+    .text-top-2 {
+        margin-top: 495px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1  {
+        display: inline-block;
+    }
+    .text-2 {
+        display: block;
+    }
+    .cente  {
+        text-align: center;
+    }
+}
+@media only screen and (min-width : 1440px) {
+    .logo-text  {
+        width: 848px;
+        margin-bottom: 10px;
+    }
+    .logo_text  {
+        font-size: 24px;
+        width: 848px;
+        padding-top: 10px;
+    }
+    .logo_text-2 {
+        font-size: 24px;
+        width: 848px;
+        margin-top: -35px;
+    }
+    .logo   {
+        margin-top: 56px;
+    }
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 50px;
+        top: 579px;
+    }
+    .car_logo   {
+        width: 954px;
+        height: 643px;
+        top: 110px;
+    }
+    .car-logo   {
+        margin-top: 135px;
+    }
+    .text-top   {
+        width: 301px;
+    }
+    .text-1, .car-textet {
+        font-size: 30px;
+    }
+    .text-2 {
+        font-size: 36px;
+    }
+    .text-3 {
+        margin-left: 122px;
+        vertical-align: top;
+    }
+    .text-4 {
+        width: 321px;
+        margin-left: 580px;
+    }
+    .text-5 {
+        margin-left: 122px;
+        width: 265px;
+    }
+    .text-7 {
+        padding-top: 6px;
+        width: 285px;
+    }
+    .text-top-1 {
+        margin-top: 38px;
+    }
+    .car-textet {
+        width: 321px;
+        margin-left: 600px;
+    }
+    .text-top-2 {
+        margin-top: 480px;
+    }
+    .cont   {
+        margin-top: 120px;
+    }
+    .text-1, .car-textet  {
+        display: inline-block;
+    }
+    .text-2     {
+        display: block;
+    }
+    .tab-border {
+        border: 5px solid #1199D8;
+        border-radius: 15px;
+    }
+    .car-text   {
+        font-size: 28px;
+    }
+    .write-text, .tel-text, .tel_text {
+        font-size: 36px;
+    }
+    .telefon_   {
+        display: none;
+    }
+    .write-text {
+        padding: 10px 50px 10px 40px;
+    }
+    .tel_text   {
+        padding: 10px 30px 10px 30px;
+    }
+    .vk_img     {
+        padding: 0px 0px 0px 30px;
+    }
+    .tel_img    {
+        padding: 0px 0px 0px 30px;
+    }
+    .bottom-vk  {
+        margin-right: 102px;
+    }
+    .vk_img svg     {
+        width: 51px;
+        height: 50px;
+    }
+    .tel_img svg    {
+        width: 51px;
+        height: 50px;
+    }
+    .teb-text    {
+        font-size: 36px;
+        padding: 44px 53px 44px 53px;
+    }
+    .table  {
+        margin-top: 120px;
+    }
+    .teb_text   {
+        font-size: 25px;
+        padding: 60px 0px 10px 49px;
+    }
+    .yell   {
+        font-size: 40px;
+        padding: 40px 0px 10px 0px;
+    }
+    .tab-border    {
+        width: 984px;
+    }
+    .teb_text:last-child    {
+        padding: 60px 0px 40px 49px;
+    }
+    .remont {
+        margin-top: 120px;
+    }
+    .cap-remont-text {
+        width: 951px;
+    }
+    .cap-remont_text    {
+        font-size: 36px;
+        padding-top: 50px;
+    }
+    .group {
+        margin-bottom: 50px;
+        margin-top: 0px;
+    }
+    .group-text, .group_text {
+        font-size: 30px;
+    }
+    .group_text_1 {
+        font-size: 30px;
+    }
+    .group_text-1 {
+        width: 183px;
+        font-size: 28px;
+    }
+    .group-img {
+        margin-top: 18px;
+        margin-bottom: 35px;
+    }
+    .group_img  {
+        width: 224px;
+        height: 224px;
+    }
+    .group-m {
+        margin-left: 25px;
+        margin-right: 25px;
+        margin-bottom: 32px;
+    }
+    .group_1    {
+        margin-right: 120px;
+    }
+    .group_2 {
+        margin-top: 32px;
+        vertical-align: middle;
+    }
+    .border-purpel  {
+        width: 951px
+    }
+    .footer {
+        margin-top: 125px;
+    }
+    .karta-text, .telefon-f, .time-text {
+       font-size: 30px;
+    }
+    .time-text  {
+        padding-left: 10px;
+    }
+    .icon-k, .telephone-img, .time-img {
+        width: 48px;
+        height: 55px;
+    }
+    .time-img   {
+        margin-left: 56px;
+    }
+    .map    {
+        width: 100%;
+    }
+    .mtas   {
+        margin-bottom: 23px;
+    }
+    .footer {
+        margin-bottom: 30px;
+    }
+    .icon-k, .telephone-img {
+        padding-right: 10px;
+    }
+   
+    .img-k {
+        margin-left: 20px;
+    }
+    .right_ {
+        padding-right: 20px;
+        margin-top: 0px;
+        margin-left: 0px;
+        text-align: right;
+    }
+    .cente  {
+        text-align: center;
+    }
+    
+}
+@media only screen and (min-width : 1600px) {
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 54px;
+        top: 656px;
+    }
+    .img-k {
+        margin-left: 22px;
+    }
+    .right_ {
+        padding-right: 22px;
+        margin-top: 0px;
+    }
+    .map {
+        width: 100%;
+    }
+    .text-3, .text-5 {
+        margin-left: 200px;
+    }
+}
+@media only screen and (min-width : 2000px) {
+    .car-url    {
+        width: 340px;
+        position: absolute;
+        right: 70px;
+        top: 825px;
+    }
+    .img-k {
+        margin-left: 50px;
+    }
+    .right_ {
+        padding-right: 50px;
+        margin-top: 0px;
+    }
+    .car-text   {
+        font-size: 32px;
+    }
+    .map {
+        width: 100%;
+    }
+    .text-3, .text-5 {
+        margin-left: 390px;
+    }
+}
+@media only screen and (min-width : 2400px) {
+    .car-url    {
+        width: 416px;
+        position: absolute;
+        right: 90px;
+        top: 985px;
+    }
+    .img-k {
+        margin-left: 52px;
+    }
+    .right_ {
+        padding-right: 52px;
+        margin-top: 0px;
+    }
+    .car-text   {
+        font-size: 42px;
+    }
+    .map {
+        width: 100%;
+    }
+    .text-3, .text-5 {
+        margin-left: 590px;
+    }
+}
+@media only screen and (min-width : 2560px) {
+    .car-url    {
+        width: 460px;
+        position: absolute;
+        right: 90px;
+        top: 1045px;
+    }
+    .img-k {
+        margin-left: 55px;
+    }
+    .right_ {
+        padding-right: 55px;
+        margin-top: 0px;
+    }
+    .car-text   {
+        font-size: 46px;
+    }
+    .map {
+        width: 100%;
+    }
+    .text-3, .text-5 {
+        margin-left: 690px;
+    }
+}
