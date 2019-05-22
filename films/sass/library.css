@@ -1,0 +1,125 @@
+.library-img {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 620px;
+  height: 400px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.library-img-check {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  margin: auto;
+}
+
+.library-bg-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 140px;
+  height: 33px;
+  font-size: 16px;
+  line-height: 19px;
+  background: #5CD4B1;
+  border-radius: 0px 0px 4px 4px;
+  color: #ffffff;
+}
+
+.library-text {
+  font-size: 16px;
+  display: inline-block;
+  margin-top: 9px;
+}
+
+.library-time {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  width: 40px;
+  height: 18px;
+  font-size: 12px;
+  color: #40957C;
+  background: #5CD4B1;
+  border-radius: 9px;
+  opacity: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.library-time_2 {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  width: 40px;
+  height: 18px;
+  font-size: 12px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #000000;
+  background: #FFFFFF;
+  border-radius: 9px;
+}
+
+.library_sub-img {
+  border-radius: 10px;
+}
+
+.library_sub-img_1 {
+  opacity: 0.4;
+}
+
+.library_sub-img_3 {
+  border-radius: 5px;
+}
+
+.library_sub_img_1 {
+  display: block;
+  position: relative;
+  background: rgba(92, 212, 177, 0.7);
+  border-radius: 5px;
+}
+
+.library_sub_img_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 140px;
+  height: 140px;
+  background: url(/image/library/2.png);
+}
+
+.library_sub_img_3 {
+  position: relative;
+}
+/*# sourceMappingURL=library.css.map */

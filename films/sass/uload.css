@@ -1,0 +1,435 @@
+.main {
+  margin-bottom: 87px;
+  margin-left: 70px;
+}
+
+.upload {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 67px;
+}
+
+.sub-upload {
+  display: inline-block;
+  width: 278px;
+  height: 7px;
+  background: rgba(0, 0, 0, 0.0992952);
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  border-radius: 6.5px;
+}
+
+.sub_upload {
+  background: #FF2ED4;
+  border-radius: 6.5px;
+  width: 107px;
+  height: 7px;
+}
+
+.upload-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #919191;
+  margin-left: 20px;
+}
+
+.menu-left {
+  width: 622px;
+  margin-top: 55px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.menu_left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 485px;
+}
+
+.menu-right {
+  width: 622px;
+  margin-top: 55px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.menu_right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 275px;
+}
+
+.menu-left-text-1 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+  border-bottom: 2px solid #FF2ED4;
+}
+
+.menu-left-text-2 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+  opacity: 0.5;
+}
+
+.import {
+  margin-top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 622px;
+  height: 758px;
+  border-radius: 10px;
+  background: url(/image/main/upload/Rectangle.png);
+}
+
+.music {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 622px;
+  height: 100px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.music-text {
+  color: #000000;
+  font-size: 16px;
+  font-weight: normal;
+  margin-left: 40px;
+}
+
+.music_text {
+  color: #000000;
+  font-size: 16px;
+  opacity: 0.5;
+  margin-left: 12px;
+}
+
+.music_img {
+  border-radius: 8px;
+}
+
+.genres {
+  width: 622px;
+  height: 145px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.genres-class {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  height: 110px;
+}
+
+.genres-sub-class {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 580px;
+}
+
+.genres-sub_class {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 420px;
+}
+
+.genres-text {
+  color: #FF2ED4;
+  border: 1px solid #FF2ED4;
+  border-radius: 22px;
+  opacity: 0.7;
+  padding: 10px 22px;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.genres_text {
+  color: #000000;
+  border: 1px solid #000000;
+  border-radius: 22px;
+  padding: 10px 22px;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.player {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 620px;
+  height: 90px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.player-text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-line-pack: left;
+      align-content: left;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  height: 70px;
+}
+
+.player_text {
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.player-sub-text {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 16px;
+}
+
+.player-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 60px;
+}
+
+.player-button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 117px;
+  height: 30px;
+  -ms-flex-item-align: center;
+      align-self: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  background: transparent;
+  opacity: 0.61;
+  border: 1.5px solid #00C386;
+  border-radius: 15px;
+}
+
+.player-button-text {
+  color: #32CC9F;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.play {
+  width: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.play-sub {
+  width: 260px;
+  height: 3px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 6.5px;
+}
+
+.play_sub {
+  width: 112px;
+}
+
+.play_subb {
+  width: 108px;
+  height: 3px;
+  background: rgba(0, 0, 0, 0.5);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.play-time {
+  font-size: 14px;
+  line-height: 16px;
+  color: #000000;
+  opacity: 0.5;
+}
+
+.play-oval {
+  width: 112px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.play_oval {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  border: 3px solid #FF66E0;
+}
+
+.upload-my {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 620px;
+  height: 44px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.upload-my-text {
+  color: #32CC9F;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.upload_my {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  width: 180px;
+}
+
+.upload-music {
+  width: 620px;
+  height: 405px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.upload-music-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 300px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.upload-music_img {
+  border-radius: 8px;
+}
+
+.upload-music-time {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  height: 50px;
+  width: 50px;
+  color: #000000;
+  opacity: 0.5;
+}
+
+.upload_music {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 74px;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.upload_music-text {
+  width: 200px;
+}
+/*# sourceMappingURL=uload.css.map */

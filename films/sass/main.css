@@ -1,0 +1,115 @@
+.main {
+  margin-bottom: 87px;
+  margin-left: 70px;
+}
+
+.rob {
+  dislay: flex;
+}
+
+.upload {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 67px;
+}
+
+.sub-upload {
+  display: inline-block;
+  width: 278px;
+  height: 7px;
+  background: rgba(0, 0, 0, 0.0992952);
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  border-radius: 6.5px;
+}
+
+.sub_upload {
+  background: #FF2ED4;
+  border-radius: 6.5px;
+  width: 107px;
+  height: 7px;
+}
+
+.upload-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: #919191;
+  margin-left: 20px;
+}
+
+.menu-left {
+  width: 622px;
+  margin-top: 55px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.menu_left {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 485px;
+}
+
+.menu-right {
+  width: 622px;
+  margin-top: 55px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.menu_right {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 275px;
+}
+
+.menu-left-text-1 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+  border-bottom: 2px solid #FF2ED4;
+}
+
+.menu-left-text-2 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #000000;
+  opacity: 0.5;
+}
+
+.import {
+  margin-top: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 622px;
+  height: 758px;
+  border-radius: 10px;
+  background: url(/image/main/Rectangle.png);
+}
+/*# sourceMappingURL=main.css.map */
